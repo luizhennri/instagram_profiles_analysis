@@ -37,8 +37,11 @@ pip install requirements.txt
 
 ### Instalar o Jupyter Notebook
 
+### Criar o Arquivo data.xlsx (Lista de Perfis)
+
 ### Abrir o Notebook e Rodar os Códigos
 
 
 ## Observações:
-- Os códigos funcionam também em um arquivo .py, basta inseri-los nele e rodar (necessários instalar também as dependências).
+- Crie o seu arquivo `.xlsx` com a lista de perfis que você deseja coletar os seguidores no modelo: Nomes/Instagram;
+- Os códigos funcionam também em um arquivo `.py`, basta inseri-los nele e rodar (necessários instalar também as dependências).
