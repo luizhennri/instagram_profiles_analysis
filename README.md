@@ -43,5 +43,5 @@ pip install requirements.txt
 
 
 ## Observações:
-- Crie o seu arquivo `.xlsx` com a lista de perfis que você deseja coletar os seguidores no modelo: Nomes/Instagram;
-- Os códigos funcionam também em um arquivo `.py`, basta inseri-los nele e rodar (necessários instalar também as dependências).
+- Crie o seu arquivo `.xlsx` com a lista de perfis que você deseja coletar os seguidores, siga o modelo: Nomes/Instagram;
+- Os códigos funcionam também em um arquivo `.py`, basta inserí-los nele e rodar (necessários instalar também as dependências).
